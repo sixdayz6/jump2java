@@ -50,6 +50,7 @@ public class CoffeeStore {
                     break;
                 case "4":
                     System.out.println("4.입금.");
+                    System.out.println("home_desk에서 작업함. ");
                     break;
                 case "5":
                     System.out.println("5.출금.");
